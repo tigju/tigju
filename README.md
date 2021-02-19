@@ -6,7 +6,7 @@
 
 Hi, my name is Iuliia! I'm a Data Scientist, I love working with data utilizing machine learning, deep learning, NLP, and computer vision tools.
 
-Find me around the web:
+I'm open to new connections. Find me around the web:
 
 - Portfolio: https://juliastanina.com/
 - Linkedin: https://www.linkedin.com/in/julia-stanina/
